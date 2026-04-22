@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Mayank Wakdikar 
+### Aspiring Cloud Engineer | Solutions Architect 
 
-<!--
-**MayWak/MayWak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cloud Engineer focused on building secure, scalable, and cost-optimized architectures. I have been learning & mastering the AWS ecosystem, specializing in Serverless and the Well-Architected Framework.
 
-Here are some ideas to get you started:
+-  **Currently Building:** A production-grade Serverless Cloud Resume (AWS, Python, Boto3).
+- **Tech Stack:** AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB), Python, Terraform.
+- **Goal:** Bridging the gap between theoretical knowledge and enterprise-ready cloud solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Project
+**[AWS Serverless Cloud Resume & Architecture](Link to your repo)**
+*A full-stack, secure, and cost-optimized system adhering to the AWS Well-Architected Framework.*
