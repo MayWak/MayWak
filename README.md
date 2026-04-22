@@ -1,5 +1,5 @@
 # Hi, I’m Mayank Wakdikar 
-### Aspiring Cloud Engineer | Solutions Architect 
+### Cloud Engineer | Solutions ArchitectURE | AWS 
 
 I am a Cloud Engineer focused on building secure, scalable, and cost-optimized architectures. I have been learning & mastering the AWS ecosystem, specializing in Serverless and the Well-Architected Framework.
 
