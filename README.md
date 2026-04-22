@@ -11,4 +11,5 @@ I am a Cloud Engineer focused on building secure, scalable, and cost-optimized a
 
 ### Featured Project
 **[AWS Serverless Cloud Resume & Architecture](https://github.com/MayWak/AWS-serverless-resume)**
+
 *A full-stack, secure, and cost-optimized system adhering to the AWS Well-Architected Framework.*
